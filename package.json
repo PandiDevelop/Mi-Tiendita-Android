@@ -1,0 +1,18 @@
+{
+  "name": "mi-tiendita-android",
+  "version": "1.14.7",
+  "private": true,
+  "description": "App Android de Mi Tiendita (Capacitor). El codigo web vive en ../Web y solo se copia su build a www/.",
+  "scripts": {
+    "copy:web": "node scripts/copy-web.mjs",
+    "sync": "npm run copy:web && cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.2"
+  }
+}

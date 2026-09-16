@@ -1,0 +1,10 @@
+# Dependencias de Node (Capacitor CLI, etc.)
+node_modules/
+
+# Copia generada del build web (se regenera con: npm run copy:web)
+www/
+
+# Logs y basura del sistema
+*.log
+.DS_Store
+Thumbs.db

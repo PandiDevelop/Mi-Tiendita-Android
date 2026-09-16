@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mi Tiendita</string>
+    <string name="title_activity_main">Mi Tiendita</string>
+    <string name="package_name">com.mitiendita.app</string>
+    <string name="custom_url_scheme">com.mitiendita.app</string>
+</resources>

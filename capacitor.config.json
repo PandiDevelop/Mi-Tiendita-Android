@@ -1,0 +1,9 @@
+{
+  "appId": "com.mitiendita.app",
+  "appName": "Mi Tiendita",
+  "webDir": "www",
+  "server": {
+    "url": "https://pandidevelop.github.io/Tiendita-Local/",
+    "cleartext": false
+  }
+}
