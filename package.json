@@ -1,6 +1,6 @@
 {
   "name": "mi-tiendita-android",
-  "version": "1.15.5",
+  "version": "1.15.6",
   "private": true,
   "description": "App Android de Mi Tiendita (Capacitor). El codigo web vive en ../Web y solo se copia su build a www/.",
   "scripts": {
