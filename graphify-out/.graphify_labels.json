@@ -1,0 +1,15 @@
+{
+  "0": "package.json",
+  "1": "ExampleInstrumentedTest.java",
+  "2": "copy-web.mjs",
+  "3": "gradlew",
+  "4": "dependencies",
+  "5": "scripts",
+  "6": "MainActivity.java",
+  "7": "app/build.gradle",
+  "8": "capacitor.build.gradle",
+  "9": "android/build.gradle",
+  "10": "capacitor.settings.gradle",
+  "11": "settings.gradle",
+  "12": "variables.gradle"
+}
