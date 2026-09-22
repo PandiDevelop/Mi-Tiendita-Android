@@ -1,5 +1,12 @@
 {
   "appId": "com.mitiendita.app",
   "appName": "Mi Tiendita",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "CapacitorUpdater": {
+      "autoUpdate": "atBackground",
+      "directUpdate": "onLaunch",
+      "version": "1.15.9"
+    }
+  }
 }

@@ -105,28 +105,6 @@
       "source_location": "L5"
     },
     {
-      "id": "package_devdependencies",
-      "label": "devDependencies",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "package.json",
-      "file_type": "code",
-      "norm_label": "devdependencies",
-      "source_file": "package.json",
-      "source_location": "L16"
-    },
-    {
-      "id": "package_devdependencies_capacitor_cli",
-      "label": "@capacitor/cli",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "package.json",
-      "file_type": "code",
-      "norm_label": "@capacitor/cli",
-      "source_file": "package.json",
-      "source_location": "L17"
-    },
-    {
       "id": "package_name",
       "label": "name",
       "_origin": "ast",
@@ -168,7 +146,7 @@
       "file_type": "concept",
       "norm_label": "@capacitor/android",
       "source_file": "package.json",
-      "source_location": "L12"
+      "source_location": "L13"
     },
     {
       "id": "ref_capacitor_app",
@@ -179,7 +157,7 @@
       "file_type": "concept",
       "norm_label": "@capacitor/app",
       "source_file": "package.json",
-      "source_location": "L13"
+      "source_location": "L14"
     },
     {
       "id": "ref_capacitor_cli",
@@ -190,7 +168,7 @@
       "file_type": "concept",
       "norm_label": "@capacitor/cli",
       "source_file": "package.json",
-      "source_location": "L17"
+      "source_location": "L19"
     },
     {
       "id": "ref_capacitor_core",
@@ -201,7 +179,29 @@
       "file_type": "concept",
       "norm_label": "@capacitor/core",
       "source_file": "package.json",
-      "source_location": "L14"
+      "source_location": "L15"
+    },
+    {
+      "id": "ref_capgo_capacitor_updater",
+      "label": "@capgo/capacitor-updater",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "package.json",
+      "file_type": "concept",
+      "norm_label": "@capgo/capacitor-updater",
+      "source_file": "package.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "ref_capgo_cli",
+      "label": "@capgo/cli",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "package.json",
+      "file_type": "concept",
+      "norm_label": "@capgo/cli",
+      "source_file": "package.json",
+      "source_location": "L20"
     },
     {
       "id": "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest",
@@ -290,6 +290,94 @@
       "norm_label": "variables.gradle",
       "source_file": "android/variables.gradle",
       "source_location": "L1"
+    },
+    {
+      "id": "scripts_publish",
+      "label": "publish.mjs",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "publish.mjs",
+      "file_type": "code",
+      "norm_label": "publish.mjs",
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "scripts_publish_here",
+      "label": "here",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "publish.mjs",
+      "file_type": "code",
+      "norm_label": "here",
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L11"
+    },
+    {
+      "id": "scripts_publish_match",
+      "label": "match",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "publish.mjs",
+      "file_type": "code",
+      "norm_label": "match",
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L18"
+    },
+    {
+      "id": "scripts_publish_root",
+      "label": "root",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "publish.mjs",
+      "file_type": "code",
+      "norm_label": "root",
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L12"
+    },
+    {
+      "id": "scripts_publish_versionsrc",
+      "label": "versionSrc",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "publish.mjs",
+      "file_type": "code",
+      "norm_label": "versionsrc",
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L14"
+    },
+    {
+      "id": "package_devdependencies",
+      "label": "devDependencies",
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "devDependencies",
+      "file_type": "code",
+      "norm_label": "devdependencies",
+      "source_file": "package.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "package_devdependencies_capacitor_cli",
+      "label": "@capacitor/cli",
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "devDependencies",
+      "file_type": "code",
+      "norm_label": "@capacitor/cli",
+      "source_file": "package.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "package_devdependencies_capgo_cli",
+      "label": "@capgo/cli",
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "devDependencies",
+      "file_type": "code",
+      "norm_label": "@capgo/cli",
+      "source_file": "package.json",
+      "source_location": "L20"
     },
     {
       "id": "scripts_copy_web",
@@ -426,7 +514,7 @@
       "file_type": "code",
       "norm_label": "dependencies",
       "source_file": "package.json",
-      "source_location": "L11"
+      "source_location": "L12"
     },
     {
       "id": "package_dependencies_capacitor_android",
@@ -437,7 +525,7 @@
       "file_type": "code",
       "norm_label": "@capacitor/android",
       "source_file": "package.json",
-      "source_location": "L12"
+      "source_location": "L13"
     },
     {
       "id": "package_dependencies_capacitor_app",
@@ -448,7 +536,7 @@
       "file_type": "code",
       "norm_label": "@capacitor/app",
       "source_file": "package.json",
-      "source_location": "L13"
+      "source_location": "L14"
     },
     {
       "id": "package_dependencies_capacitor_core",
@@ -459,7 +547,18 @@
       "file_type": "code",
       "norm_label": "@capacitor/core",
       "source_file": "package.json",
-      "source_location": "L14"
+      "source_location": "L15"
+    },
+    {
+      "id": "package_dependencies_capgo_capacitor_updater",
+      "label": "@capgo/capacitor-updater",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "dependencies",
+      "file_type": "code",
+      "norm_label": "@capgo/capacitor-updater",
+      "source_file": "package.json",
+      "source_location": "L16"
     },
     {
       "id": "package_scripts",
@@ -491,6 +590,17 @@
       "community_name": "scripts",
       "file_type": "code",
       "norm_label": "open",
+      "source_file": "package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "package_scripts_publish",
+      "label": "publish",
+      "_origin": "ast",
+      "community": 5,
+      "community_name": "scripts",
+      "file_type": "code",
+      "norm_label": "publish",
       "source_file": "package.json",
       "source_location": "L9"
     },
@@ -703,7 +813,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L12",
+      "source_location": "L13",
       "weight": 1.0
     },
     {
@@ -715,7 +825,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L13",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -727,7 +837,19 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L14",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "package",
+      "target": "ref_capgo_capacitor_updater",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "package.json",
+      "source_location": "L16",
       "weight": 1.0
     },
     {
@@ -739,7 +861,19 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L17",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "package",
+      "target": "ref_capgo_cli",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "package.json",
+      "source_location": "L20",
       "weight": 1.0
     },
     {
@@ -794,7 +928,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L11",
+      "source_location": "L12",
       "weight": 1.0
     },
     {
@@ -805,7 +939,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L16",
+      "source_location": "L18",
       "weight": 1.0
     },
     {
@@ -871,7 +1005,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L12",
+      "source_location": "L13",
       "weight": 1.0
     },
     {
@@ -882,7 +1016,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L13",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -893,7 +1027,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L14",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_capgo_capacitor_updater",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "package.json",
+      "source_location": "L16",
       "weight": 1.0
     },
     {
@@ -904,7 +1049,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L17",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_capgo_cli",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_open",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "package.json",
+      "source_location": "L10",
       "weight": 1.0
     },
     {
@@ -931,7 +1098,7 @@
     },
     {
       "source": "package_scripts",
-      "target": "package_scripts_open",
+      "target": "package_scripts_publish",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -996,6 +1163,50 @@
       "weight": 1.0
     },
     {
+      "source": "scripts_publish",
+      "target": "scripts_publish_here",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_publish",
+      "target": "scripts_publish_root",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_publish",
+      "target": "scripts_publish_versionsrc",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_publish",
+      "target": "scripts_publish_match",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/publish.mjs",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
       "source": "android_gradlew",
       "target": "android_gradlew_warn",
       "relation": "defines",
@@ -1052,5 +1263,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "157f7a9e7f83e5196bfc69dad98e1f6c65a5b053"
+  "built_at_commit": "18109597e484b9455ae64202ab3280dbcc064a18"
 }

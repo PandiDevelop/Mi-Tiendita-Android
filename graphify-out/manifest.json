@@ -1,14 +1,14 @@
 {
   "android/app/build.gradle": {
-    "mtime": 1790026763.8802752,
-    "seen": 1790026845.4374359,
-    "ast_hash": "b2cd67b3cd943d9948c93ff898a11ba6",
+    "mtime": 1790050627.1248708,
+    "seen": 1790050845.0245385,
+    "ast_hash": "4ef9578c6b854c35d2815a05f9fb0a5e",
     "semantic_hash": ""
   },
   "android/app/capacitor.build.gradle": {
-    "mtime": 1790026758.8016632,
-    "seen": 1790026845.4374359,
-    "ast_hash": "80be4877bbd0fae6c7b53d99f1346192",
+    "mtime": 1790050612.3545692,
+    "seen": 1790050845.0245385,
+    "ast_hash": "1d9abbd277738d9edcd38c00f85de3a8",
     "semantic_hash": ""
   },
   "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java": {
@@ -36,9 +36,9 @@
     "semantic_hash": ""
   },
   "android/capacitor.settings.gradle": {
-    "mtime": 1790026758.8006601,
-    "seen": 1790026845.4374359,
-    "ast_hash": "debe20d3a37085db80910111c2fbc5e9",
+    "mtime": 1790050612.3535616,
+    "seen": 1790050845.0245385,
+    "ast_hash": "b25d216be5079e9fb0fd852009cdb84b",
     "semantic_hash": ""
   },
   "android/gradlew": {
@@ -60,15 +60,15 @@
     "semantic_hash": ""
   },
   "capacitor.config.json": {
-    "mtime": 1789689482.6950762,
-    "seen": 1789689855.2458243,
-    "ast_hash": "79f58ef217f87023c4f756859c38ac8d",
+    "mtime": 1790050503.185283,
+    "seen": 1790050845.0245385,
+    "ast_hash": "a10819844b4236a32a9fad3f2ab32876",
     "semantic_hash": ""
   },
   "package.json": {
-    "mtime": 1789689870.2329822,
-    "seen": 1790026845.4374359,
-    "ast_hash": "76ba612f91f864d1c9004c89f6ed87a6",
+    "mtime": 1790050555.8031602,
+    "seen": 1790050845.0245385,
+    "ast_hash": "0f19b8a64085b6853524a20e169463e4",
     "semantic_hash": ""
   },
   "scripts/copy-web.mjs": {
@@ -231,6 +231,12 @@
     "mtime": 1789689548.3316596,
     "seen": 1789689855.2458243,
     "ast_hash": "55c7155af2883beb3780d990fa349ae9",
+    "semantic_hash": ""
+  },
+  "scripts/publish.mjs": {
+    "mtime": 1790050553.4801693,
+    "seen": 1790050845.0245385,
+    "ast_hash": "7c5dc4d8d79a1dddc111fa183eea0698",
     "semantic_hash": ""
   }
 }

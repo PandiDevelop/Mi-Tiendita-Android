@@ -7,7 +7,7 @@ android {
         applicationId "com.mitiendita.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 11510
+        versionCode 11511
         versionName "1.15.9"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
