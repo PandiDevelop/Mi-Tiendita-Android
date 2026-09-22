@@ -2,7 +2,7 @@
 // Lee la version real de la app (Web/react-app/src/lib/version.ts, unica
 // fuente de verdad), copia el build web a www/ y deja el zip + latest.json en
 // ../Web/bundles para que GitHub Pages los sirva en
-//   https://pandi.github.io/Tiendita-Local/bundles/latest.zip
+//   https://pandidevelop.github.io/Tiendita-Local/bundles/latest.zip
 // La app nativa revisa ese latest.json cada vez que abre y aplica el bundle si
 // hay version mas nueva.
 // NOTA: luego hay que commitear y pushear ../Web (el propio flujo normal de
@@ -37,7 +37,7 @@ execSync(`tar -a -c -f "${zipPath}" -C "${wwwDir}" .`);
 const latestJson = JSON.stringify(
   {
     version,
-    url: 'https://pandi.github.io/Tiendita-Local/bundles/latest.zip',
+    url: 'https://pandidevelop.github.io/Tiendita-Local/bundles/latest.zip',
     publishedAt: new Date().toISOString(),
   },
   null,
