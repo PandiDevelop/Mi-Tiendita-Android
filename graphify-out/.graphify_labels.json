@@ -12,6 +12,5 @@
   "10": "capacitor.settings.gradle",
   "11": "settings.gradle",
   "12": "variables.gradle",
-  "13": "publish.mjs",
-  "14": "devDependencies"
+  "13": "publish.mjs"
 }

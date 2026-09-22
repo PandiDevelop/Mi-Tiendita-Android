@@ -16,7 +16,6 @@
     "@capgo/capacitor-updater": "^8.51.20"
   },
   "devDependencies": {
-    "@capacitor/cli": "^8.5.2",
-    "@capgo/cli": "^8.61.0"
+    "@capacitor/cli": "^8.5.2"
   }
 }
