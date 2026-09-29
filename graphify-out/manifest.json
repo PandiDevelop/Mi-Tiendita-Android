@@ -1,13 +1,13 @@
 {
   "android/app/build.gradle": {
-    "mtime": 1790643882.7905335,
-    "seen": 1790644826.3710046,
-    "ast_hash": "131db5b1152ec10f38122ba8360d094c",
+    "mtime": 1790645227.5132997,
+    "seen": 1790645263.2001467,
+    "ast_hash": "b4cf956bd72c497321bad5a4b0baafc1",
     "semantic_hash": ""
   },
   "android/app/capacitor.build.gradle": {
-    "mtime": 1790644795.9385476,
-    "seen": 1790644826.3710046,
+    "mtime": 1790645236.3183222,
+    "seen": 1790645263.2001467,
     "ast_hash": "1d9abbd277738d9edcd38c00f85de3a8",
     "semantic_hash": ""
   },
@@ -36,8 +36,8 @@
     "semantic_hash": ""
   },
   "android/capacitor.settings.gradle": {
-    "mtime": 1790644795.9365108,
-    "seen": 1790644826.3710046,
+    "mtime": 1790645236.3173234,
+    "seen": 1790645263.2001467,
     "ast_hash": "b25d216be5079e9fb0fd852009cdb84b",
     "semantic_hash": ""
   },
@@ -60,9 +60,9 @@
     "semantic_hash": ""
   },
   "capacitor.config.json": {
-    "mtime": 1790643882.5737813,
-    "seen": 1790644826.3710046,
-    "ast_hash": "fce42d4e09049141f56d09c4155f94a3",
+    "mtime": 1790645227.3069825,
+    "seen": 1790645263.2001467,
+    "ast_hash": "c2b68a14d6260e32bd5cd23c6b53772b",
     "semantic_hash": ""
   },
   "package.json": {
