@@ -1,8 +1,8 @@
 {
   "android/app/build.gradle": {
-    "mtime": 1790645227.5132997,
-    "seen": 1790645263.2001467,
-    "ast_hash": "b4cf956bd72c497321bad5a4b0baafc1",
+    "mtime": 1790645427.628796,
+    "seen": 1790645452.3524573,
+    "ast_hash": "23ee7021e2376b402534189c968aad0d",
     "semantic_hash": ""
   },
   "android/app/capacitor.build.gradle": {
