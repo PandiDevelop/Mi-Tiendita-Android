@@ -7,7 +7,7 @@ android {
         applicationId "com.mitiendita.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionName "1.15.13"
+        versionName "1.15.18"
         // versionCode derivado de la version web (la misma que versionName, que
         // copia APP_VERSION de version.ts): "1.15.13" -> 115013. Asi el numero
         // interno coincide con la version visible. El piso 11516 evita un
