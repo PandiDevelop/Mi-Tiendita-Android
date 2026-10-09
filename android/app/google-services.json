@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816762296976",
+    "project_id": "mi-tiendita-28827",
+    "storage_bucket": "mi-tiendita-28827.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816762296976:android:26ceb18d65e8652e089615",
+        "android_client_info": {
+          "package_name": "com.mitiendita.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816762296976-qmfl5mkggltljo860in915sjn5dl5177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_9TQdFfhMApzZWeTPlp4QgpBgOyPFTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816762296976-qmfl5mkggltljo860in915sjn5dl5177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
